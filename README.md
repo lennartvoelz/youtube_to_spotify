@@ -9,4 +9,6 @@ To run on your local machine, you need the following dependencies:
 -time
 
 Make sure to edit app.py: replace the placeholders with your API keys to YouTube and Spotify
-Then you can parse a YouTube URL to a playlist containing your songs.
+Then you can parse a YouTube URL to a playlist containing your songs
+
+When you are running a new session, take a look at the console and click the link to verify with Spotify - hit the "Convert" button again
